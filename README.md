@@ -3,15 +3,13 @@
 A customizable Flutter dropdown widget with enhanced UI, hover effects, and Material Design styling.
 ## Demo
 
-**📱 Mobile Preview:**  
+**📱 Mobile Preview:**
 
-https://www.youtube.com/watch?v=V-9HOHWiy7o
+[![Mobile Demo](https://img.youtube.com/vi/V-9HOHWiy7o/maxresdefault.jpg)](https://www.youtube.com/watch?v=V-9HOHWiy7o)
 
-**🖥️ Web Preview:**  
+**🖥️ Web Preview:**
 
-https://www.youtube.com/watch?v=SKnEIwGliQA
-
-
+[![Web Demo](https://img.youtube.com/vi/SKnEIwGliQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=SKnEIwGliQA)
 
 
 ## Features
