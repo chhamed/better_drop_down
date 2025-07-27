@@ -4,11 +4,11 @@ A customizable Flutter dropdown widget with enhanced UI, hover effects, and Mate
 ## Demo
 ## 📱 Mobile Preview:
 
-![Mobile Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/mobile_preview.gif)
+![Mobile Preview](https://raw.githubusercontent.com/chhamed/better_drop_down/main/assets/mobile_preview.gif)
 
 ## 🖥️ Web Preview:
 
-![Web Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/web_preview.gif)
+![Web Preview](https://raw.githubusercontent.com/chhamed/better_drop_down/main/assets/web_preview.gif)
 
 ## Features
 - Customizable hint text, icon, and dropdown color
@@ -20,7 +20,7 @@ A customizable Flutter dropdown widget with enhanced UI, hover effects, and Mate
 Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  better_drop_down: ^1.0.4
+  better_drop_down: ^1.0.5
 ```
 
 Then run:

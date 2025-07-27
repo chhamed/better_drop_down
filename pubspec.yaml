@@ -1,6 +1,6 @@
 name: better_drop_down
 description: A customizable Flutter dropdown widget with enhanced UI, hover effects, and Material Design styling.
-version: 1.0.4
+version: 1.0.5
 homepage: https://github.com/chhamed/better_drop_down
 repository: https://github.com/chhamed/better_drop_down
 environment:
