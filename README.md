@@ -2,6 +2,17 @@
 
 A customizable Flutter dropdown widget with enhanced UI, hover effects, and Material Design styling.
 
+mobile :
+
+https://github.com/user-attachments/assets/d8334707-83e2-4953-a4e3-633a0f6a3d6e
+
+web :
+
+https://github.com/user-attachments/assets/c9414f7c-f2ce-407d-8f99-8fa0756e7483
+
+
+
+
 ## Features
 - Customizable hint text, icon, and dropdown color
 - Smooth hover effects for menu items
