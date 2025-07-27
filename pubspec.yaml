@@ -1,0 +1,14 @@
+name: drop_down_plus
+description: A customizable Flutter dropdown widget with enhanced UI, hover effects, and Material Design styling.
+version: 1.0.0
+homepage: https://github.com/chhamed/drop_down_plus
+repository: https://github.com/chhamed/drop_down_plus
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
