@@ -1,4 +1,4 @@
-# DropDownPlus
+# BetterDropDown
 
 A customizable Flutter dropdown widget with enhanced UI, hover effects, and Material Design styling.
 ## Demo
@@ -18,13 +18,13 @@ https://github.com/user-attachments/assets/c9414f7c-f2ce-407d-8f99-8fa0756e7483
 - Customizable hint text, icon, and dropdown color
 - Smooth hover effects for menu items
 - Material Design styling with elevation and border customization
-- Supports dynamic menu height and item selection
+
 
 ## Installation
 Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  drop_down_plus: ^1.0.0
+  better_drop_down: ^1.0.0
 ```
 
 Then run:
@@ -35,7 +35,7 @@ flutter pub get
 ## Usage
 ```dart
 import 'package:flutter/material.dart';
-import 'package:drop_down_plus/drop_down_plus.dart';
+import 'package:better_drop_down/better_drop_down.dart';
 
 class MyApp extends StatefulWidget {
   @override
@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: DropDownPlus<String>(
+          child: BetterDropDown<String>(
             hintText: 'Select an option',
             value: selectedValue,
             onChanged: (String? value) {

@@ -1,4 +1,4 @@
-library drop_down_plus;
+library better_drop_down;
 
 import 'package:flutter/material.dart';
 
@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 /// features like custom hint text, icons, dropdown color, elevation, and maximum menu height.
 /// It uses an [OverlayEntry] to display the dropdown menu below the input field and includes
 /// hover effects for better user interaction.
-class DropDownPlus extends StatefulWidget {
+class BetterDropDown extends StatefulWidget {
   /// The currently selected value of the dropdown.
   /// If null, the [hintText] is displayed.
   final String? value;
@@ -43,7 +43,7 @@ class DropDownPlus extends StatefulWidget {
   /// Constrains the menu height to prevent it from growing too large. Defaults to 300.
   final double? menuMaxHeight;
 
-  const DropDownPlus({
+  const BetterDropDown({
     Key? key,
     this.value,
     required this.onChanged,
@@ -57,11 +57,11 @@ class DropDownPlus extends StatefulWidget {
   }) : super(key: key);
 
   @override
-  DropDownPlusState createState() => DropDownPlusState();
+  BetterDropDownState createState() => BetterDropDownState();
 }
 
-/// The state class for [DropDownPlus], managing the dropdown's open/closed state and overlay.
-class DropDownPlusState extends State<DropDownPlus> {
+/// The state class for [BetterDropDown], managing the dropdown's open/closed state and overlay.
+class BetterDropDownState extends State<BetterDropDown> {
   /// The overlay entry used to display the dropdown menu.
   OverlayEntry? _overlayEntry;
 
